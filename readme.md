@@ -16,3 +16,8 @@
 * In *03_transfer_v2.ipynb* werden drei Transfer Learning Modelle jeweils mit unterschiedlichen Batchgrößen mit emotion_dataset_v2 (2Klassen) trainiert und evaluiert.
 <br> Alle Trainings-Notebooks (02_ und 03_) sind zwar in einer Reihenfolge benannt, können aber auch in anderer Reihenfolge ausgeführt werden.
 <br> Aus den Trainings-Notebooks heraus werden die verschiedenen Modelle als .keras-Dateien im Ordner "output" gespeichert.
+
+
+### Lizenz
+Dieses Projekt steht unter der [Creative Commons Namensnennung – Nicht-kommerziell 4.0 International Lizenz (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.de).  
+Eine Nutzung ist nur mit Namensnennung und nicht-kommerziell gestattet.
